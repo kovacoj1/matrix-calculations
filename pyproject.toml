@@ -15,7 +15,7 @@ dev = [
     "pytest>=9.0.0",
 ]
 notebooks = [
-    "jupyterlab>=4.4.0",
+    "jupyterlab>=4.5.8",
     "matplotlib>=3.10.0",
     "scipy>=1.16.0",
 ]
