@@ -5,7 +5,7 @@ description = "Numerical linear algebra experiments for matrix functions and rel
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "ipykernel>=7.2.0",
+    "ipykernel>=7.3.0",
     "numpy>=2.4.6",
     "torch>=2.12.0",
 ]
