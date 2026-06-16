@@ -16,7 +16,7 @@ dev = [
 ]
 notebooks = [
     "jupyterlab>=4.4.0",
-    "matplotlib>=3.10.0",
+    "matplotlib>=3.11.0",
     "scipy>=1.16.0",
 ]
 
